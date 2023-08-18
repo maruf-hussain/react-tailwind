@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "price":1000,
+    "name": "Basic Membership",
+    "features": ["Access to cardio area", "Limited group classes", "Locker room access"]
+  },
+  {
+    "id": 2,
+    "price":2000,
+    "name": "Standard Membership",
+    "features": ["Full gym access", "Unlimited group classes", "Personal trainer consultation"]
+  },
+  {
+    "id": 3,
+    "price":5000,
+    "name": "Premium Membership",
+    "features": ["All facilities access", "Unlimited classes", "Dedicated personal trainer", "Sauna and spa access"]
+  }
+]
